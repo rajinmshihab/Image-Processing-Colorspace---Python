@@ -1,0 +1,2 @@
+# Terminal Command to run the program. Use the image names according to the images provided or use your own image.
+# python3 main.py --input_image image.png --output_image output.png --to_display True --detect_color yellow green red blue
